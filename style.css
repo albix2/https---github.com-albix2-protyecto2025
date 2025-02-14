@@ -1,0 +1,16 @@
+.icono{
+    width: 5%;
+}
+ .nav-item {
+    margin-right: 100px; /* Aumenta el espacio entre los elementos */
+  }
+  #fecha-hora {
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 20px;
+    color:#000;
+  background-color: aliceblue;
+}
+#footer{
+    background-color: #000;
+}
